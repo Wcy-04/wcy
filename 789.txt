@@ -1,3 +1,4 @@
 #!/bin/bash
 date
 cat  /etc/hostname
+oiuhoihsdfa
